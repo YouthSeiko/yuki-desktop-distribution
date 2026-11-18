@@ -52,3 +52,28 @@ contents and keyboard input are not collected. Optional speech sends dialogue
 only to a separately installed local VOICEVOX engine. Windows manages Store
 installation, startup settings and removal. Exported letters remain on the
 Desktop or wherever you saved them. Support: youthseiko@gmail.com.
+
+
+## Interactions entre personnages — 18 novembre 2026
+
+Lorsque Mio et Yuki sont lancées, leurs versions compatibles peuvent se répondre
+et coordonner des salutations, signes de la main et poses photo imaginaires.
+L’option se désactive dans les paramètres ; pause, silence, absence et fatigue
+suspendent ces scènes. Un canal nommé Windows local, limité au même utilisateur
+et à la même session, transmet seulement des identifiants de scènes prédéfinies.
+Aucun cœur, lettre, sauvegarde, contenu de fenêtre ou texte libre n’est partagé.
+Aucun serveur Internet, capture d’écran ou webcam. Les données des deux
+personnages et leurs désinstallations restent indépendantes.
+
+Compatible updated Yuki and Mio apps can exchange greetings, waves and imaginary
+photo poses through a local Windows named pipe restricted to the same user and
+session. Only predefined scene identifiers are sent, never hearts, letters,
+files, window contents or free-form text. Interactions are optional; pause,
+silent mode, absence and fatigue prevent them. No Internet server, screenshots
+or webcam. The two apps keep separate player data and uninstall independently.
+
+更新されたユキとミオは、同じユーザーとWindowsセッション内のローカルな名前付き
+パイプを通じて、挨拶、手振り、写真ごっこのシーンを連携できます。送るのは事前に
+定義されたシーンの識別子だけで、ハート、手紙、保存ファイル、窓の内容、自由な
+文章は共有しません。交流は設定で無効にでき、休止、静音、外出、疲労中は行いません。
+インターネットのサーバー、画面撮影、ウェブカメラは使わず、二人のデータは別々です。

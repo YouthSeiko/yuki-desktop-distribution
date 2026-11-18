@@ -16,3 +16,12 @@ Le paquet MSIX est une archive ZIP. Une copie extraite permet de remplacer les D
 Construisez les bibliothèques depuis leurs sources selon les instructions amont contenues dans les archives. Les conditions des bibliothèques demeurent applicables indépendamment des droits propres au personnage et à l'application Yuki.
 
 Les documents propres à ce dépôt sont Copyright © 2026 YouthSeiko. Les licences des bibliothèques restent inchangées. Ce dépôt ne modifie pas les licences de versions de Yuki antérieurement distribuées.
+
+## Mio Desktop 2D
+
+Même environnement de bibliothèques dynamiques, sources et notices ci-dessus.
+Les chemins de remplacement sont `MioDesktop2D/_internal/PySide6`, `shiboken6`
+et `MioDesktop2D.exe`. Aucun code ni asset propre à Mio n’est publié ici.
+
+- [Mio — confidentialité / privacy / プライバシー](mio/PRIVACY.md)
+- [Mio — assistance / support / サポート](mio/SUPPORT.md)
